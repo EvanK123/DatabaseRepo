@@ -1,5 +1,5 @@
 
-public class PutScore 
+public class PutData 
 {
 	/** Establish score as #1 */
 	public static void PutScore()
@@ -9,6 +9,11 @@ public class PutScore
 	/** If score is higher than top, set boolean to true */
 	public static void TestScore()
 	{
-		boolean Higher;
+		boolean higher;
+	}
+	
+	/** Establish file name */
+	public static void PutFileName()
+	{
 	}
 }

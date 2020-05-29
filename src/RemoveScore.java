@@ -1,8 +1,8 @@
 
-public class RemoveScore 
+public class RemoveData 
 {
 	/** Remove scores if TestScore is true, and replace with top */
-	public static void Remove()
+	public static void RemoveScore()
 	{
 	}
 }
